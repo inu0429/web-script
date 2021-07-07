@@ -8,3 +8,9 @@
 
 
 https://inu0429.github.io/web-script/
+
+
+간단하게 만들어보는 맛집 게시판.
+
+
+![서울맛집 서버](https://user-images.githubusercontent.com/80373000/124770700-82967c00-df75-11eb-9dc2-d61e4f8fe150.JPG)
